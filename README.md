@@ -31,8 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Arpita-av1003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
   
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita-av1003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpita-av1003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
 </div>
 
 <div align="center">

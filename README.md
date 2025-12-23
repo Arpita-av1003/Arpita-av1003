@@ -23,10 +23,6 @@
   </p>
 </div>
 
----
 
-<div align="center">
-  <h3>🔥 My Stats</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpita-av1003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-  
+
+
